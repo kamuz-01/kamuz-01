@@ -46,5 +46,5 @@
 
 ---
 
-✨ _“Transformando café em código desde [ano]”_
+✨ _“Transformando café em código desde 2023”_
 
