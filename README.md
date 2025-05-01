@@ -2,7 +2,7 @@
 ![image2](https://github.com/user-attachments/assets/d8422e31-2fcf-435d-aeda-e06ef0ca6dec)
 
 
-💻 Apaixonado por tecnologia, código limpo e soluções criativas  
+💻 Apaixonado por tecnologia e soluções criativas  
 🚀 Sempre aprendendo algo novo e colaborando com projetos abertos
 
 ---
