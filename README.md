@@ -17,6 +17,7 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java logo" width="70" height="30"/>
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-00000F?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
