@@ -18,7 +18,7 @@
   <a href="#"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" width="80" height="30"/></a>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" width="130" height="30"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/Java-f59323?style=flat&logo=openjdk&logoColor=000000&labelColor=d78a2e&color=d78a2e" width="88" height="30"/>
+  <img src="https://img.shields.io/badge/Java-f59323?style=flat&logo=openjdk&logoColor=000000&labelColor=d78a2e&color=d78a2e" width="90" height="30"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" width="100" height="30"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" width="135" height="30"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" width="170" height="30"/>
