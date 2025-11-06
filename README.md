@@ -9,6 +9,7 @@
 
 ### 🧰 Minhas principais ferramentas e tecnologias
 
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="100" height="30"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="100" height="30"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="100" height="30"/>
@@ -20,6 +21,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="100" height="30"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="100" height="30"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" width="100" height="30"/>
+</p>
 
 ---
 
