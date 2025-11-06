@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" width="100" height="30"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" width="135" height="30"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" width="170" height="30"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" width="100" height="30"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="100" height="30"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" width="120" height="30"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" width="120" height="30"/>
@@ -29,9 +30,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="100" height="30"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="90" height="30"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" width="120" height="30"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" width="90" height="30"/>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" width="140" height="30"/></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" width="200" height="30"/></a>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" width="120" height="30"/>
 </p>
 
 ---
