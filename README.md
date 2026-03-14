@@ -41,7 +41,9 @@
 ### 📌 Projetos em destaque
 
 🔹 🔗 [Nome do Projeto 1](https://github.com/seuusuario/projeto1): Breve descrição do projeto
+
 🔹 🔗 [Nome do Projeto 2](https://github.com/seuusuario/projeto2): Breve descrição do projeto
+
 🔹 🔗 [Portfólio Web](https://seuportifolio.com) (se tiver)
 
 ---
