@@ -1,4 +1,4 @@
-# 👋 Hi i'm Karli De Jesus Munoz Manzano🧑‍💻
+# 👋 Hi, i'm Karli De Jesus Munoz Manzano🧑‍💻
 ![image2](https://github.com/user-attachments/assets/d8422e31-2fcf-435d-aeda-e06ef0ca6dec)
 ![](https://komarev.com/ghpvc/?username=kamuz-01&color=blue)
 
