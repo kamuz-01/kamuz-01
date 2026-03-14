@@ -1,6 +1,6 @@
 # 👋 Hi i'm Karli De Jesus Munoz Manzano🧑‍💻
 ![image2](https://github.com/user-attachments/assets/d8422e31-2fcf-435d-aeda-e06ef0ca6dec)
-
+![](https://komarev.com/ghpvc/?username=kamuz-01&color=blue)
 
 💻 Apaixonado por tecnologia e soluções criativas  
 🚀 Sempre aprendendo algo novo e colaborando com projetos abertos
@@ -68,3 +68,4 @@
 
 ✨ _“Transformando café em código desde 2023”_
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
