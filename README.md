@@ -60,7 +60,7 @@
 ### ⚙️ Minhas estatísticas
 
 ![kamuz-01](https://github-readme-stats.vercel.app/api?username=kamuz-01&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuz-01&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuz-01&layout=compact&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamuz-01&theme=transparent&hide_border=FALSO&locale=pt_BR&short_numbers=FALSO)](https://git.io/streak-stats)
 
 ---
