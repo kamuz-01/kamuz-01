@@ -40,9 +40,9 @@
 
 ### 📌 Projetos em destaque
 
-- 🔗 [Nome do Projeto 1](https://github.com/seuusuario/projeto1): Breve descrição do projeto
-- 🔗 [Nome do Projeto 2](https://github.com/seuusuario/projeto2): Breve descrição do projeto
-- 🔗 [Portfólio Web](https://seuportifolio.com) (se tiver)
+🔹 🔗 [Nome do Projeto 1](https://github.com/seuusuario/projeto1): Breve descrição do projeto
+🔹 🔗 [Nome do Projeto 2](https://github.com/seuusuario/projeto2): Breve descrição do projeto
+🔹 🔗 [Portfólio Web](https://seuportifolio.com) (se tiver)
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-### ⚙️ Minhas estatísticas
+### 📊 Minhas estatísticas
 
 ![kamuz-01](https://github-readme-stats.vercel.app/api?username=kamuz-01&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuz-01&theme=transparent&locale=pt-br)
@@ -67,5 +67,9 @@
 ---
 
 ✨ _“Transformando café em código desde 2023”_
+
+---
+
+### 🐍 Contribuições
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
