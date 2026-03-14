@@ -61,6 +61,7 @@
 
 ![kamuz-01](https://github-readme-stats.vercel.app/api?username=kamuz-01&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuz-01&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamuz-01)](https://git.io/streak-stats)
 
 ---
 
