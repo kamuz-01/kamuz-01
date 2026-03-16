@@ -1,4 +1,4 @@
-# 👋 Hi, i'm Karli De Jesus Munoz Manzano🧑‍💻
+# 👋 Hi, I'm Karli De Jesus Munoz Manzano 🧑‍💻
 
 ![image2](https://github.com/user-attachments/assets/d8422e31-2fcf-435d-aeda-e06ef0ca6dec)
 
@@ -6,8 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=000&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;Python+%7C+Django;API+REST+Developer;Sempre+aprendendo+algo+novo+🚀"/>
 </p>
 
-💻 Apaixonado por tecnologia e soluções criativas  
-🚀 Sempre aprendendo algo novo e colaborando com projetos abertos
+💻 Apaixonado por tecnologia e pela criação de soluções inovadoras  
+🚀 Sempre evoluindo e aprendendo novas ferramentas
 
 ![](https://komarev.com/ghpvc/?username=kamuz-01&color=blue)
 
@@ -77,7 +77,7 @@
 ### 🏆 Conquistas no GitHub
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kamuz-01&theme=algolia&no-frame=true&no-bg=true&margin-w=10&locale=pt-br"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kamuz-01&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
@@ -92,5 +92,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamuz-01&theme=github-compact&hide_border=true"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+---
 
+### 📚 Resumo
+
+<p align="center">
+<img width="1015" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamuz-01&theme=github"/>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
