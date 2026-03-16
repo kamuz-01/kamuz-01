@@ -67,10 +67,10 @@
 
 ### 📊 Minhas estatísticas
 
-![kamuz-01](https://github-readme-stats.vercel.app/api?username=kamuz-01&show_icons=true&theme=transparent&locale=pt-br&card_width=510&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuz-01&theme=transparent&locale=pt-br&card_width=330)
+![kamuz-01](https://github-readme-stats.vercel.app/api?username=kamuz-01&show_icons=true&theme=transparent&locale=pt-br&card_width=505&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuz-01&theme=transparent&locale=pt-br&card_width=305)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamuz-01&theme=transparent&hide_border=FALSO&locale=pt_BR&card_width=845&short_numbers=FALSO)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamuz-01&theme=transparent&hide_border=FALSO&locale=pt_BR&card_width=840&short_numbers=FALSO)](https://git.io/streak-stats)
 
 ---
 
