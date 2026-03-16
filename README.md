@@ -1,6 +1,5 @@
 # 👋 Hi, i'm Karli De Jesus Munoz Manzano🧑‍💻
 ![image2](https://github.com/user-attachments/assets/d8422e31-2fcf-435d-aeda-e06ef0ca6dec)
-![](https://komarev.com/ghpvc/?username=kamuz-01&color=blue)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=000&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;Python+%7C+Django;API+REST+Developer;Sempre+aprendendo+algo+novo+🚀"/>
@@ -9,6 +8,7 @@
 💻 Apaixonado por tecnologia e soluções criativas  
 🚀 Sempre aprendendo algo novo e colaborando com projetos abertos
 
+![](https://komarev.com/ghpvc/?username=kamuz-01&color=blue)
 ---
 
 ### 🧰 Minhas principais ferramentas e tecnologias
@@ -68,7 +68,7 @@
 ![kamuz-01](https://github-readme-stats.vercel.app/api?username=kamuz-01&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuz-01&theme=transparent&locale=pt-br)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamuz-01&theme=transparent&hide_border=FALSO&locale=pt_BR&card_width=50&short_numbers=FALSO)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamuz-01&theme=transparent&hide_border=FALSO&locale=pt_BR&card_width=650&short_numbers=FALSO)](https://git.io/streak-stats)
 
 ---
 
