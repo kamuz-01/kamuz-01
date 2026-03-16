@@ -1,7 +1,5 @@
 # 👋 Hi, i'm Karli De Jesus Munoz Manzano🧑‍💻
 
-![](https://komarev.com/ghpvc/?username=kamuz-01&color=blue)
-
 ![image2](https://github.com/user-attachments/assets/d8422e31-2fcf-435d-aeda-e06ef0ca6dec)
 
 <p align="center">
@@ -10,6 +8,8 @@
 
 💻 Apaixonado por tecnologia e soluções criativas  
 🚀 Sempre aprendendo algo novo e colaborando com projetos abertos
+
+![](https://komarev.com/ghpvc/?username=kamuz-01&color=blue)
 
 ---
 
@@ -70,7 +70,7 @@
 ![kamuz-01](https://github-readme-stats.vercel.app/api?username=kamuz-01&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuz-01&theme=transparent&locale=pt-br)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamuz-01&theme=transparent&hide_border=FALSO&locale=pt_BR&card_width=777&short_numbers=FALSO)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamuz-01&theme=transparent&hide_border=FALSO&locale=pt_BR&card_width=775&short_numbers=FALSO)](https://git.io/streak-stats)
 
 ---
 
