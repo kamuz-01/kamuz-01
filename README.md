@@ -46,12 +46,11 @@
 
 ### 📌 Projetos em destaque
 
-🌿 [AgroFraiburgo](https://github.com/kamuz-01/AgroFraiburgo): Aplicativo web para disponibilizar informações sobre os produtos produzidos pela agricultura familiar do município de Fraiburgo/SC.
-
-📈 [Monitor de Recursos](https://github.com/kamuz-01/Monitor-de-recursos): Aplicativo web que monitora e exibe via dashboard o uso de Memória RAM e CPU.
-
-🎓 [Mini-Sistema de Gestão Escolar](https://github.com/kamuz-01/Pratica-SpringBoot): API REST de um mini-sistema de gestão escolar.
-
+| Título do projeto                                                    | Descrição                                                                                                                                                        |
+| :------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| 🌿 [AgroFraiburgo](https://github.com/kamuz-01/AgroFraiburgo)       | Aplicativo web para disponibilizar informações sobre os produtos produzidos pela agricultura familiar do município de Fraiburgo/SC. |
+| 📊 [Monitor de Recursos](https://github.com/kamuz-01/Monitor-de-recursos)  | Aplicativo web que monitora e exibe via dashboard o uso de Memória RAM e CPU. |
+| 🎓 [Mini-Sistema de Gestão Escolar](https://github.com/kamuz-01/Pratica-SpringBoot) | API REST de um mini-sistema de gestão escolar.    |
 ---
 
 ### 📬 Onde me encontrar
