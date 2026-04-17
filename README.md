@@ -16,30 +16,30 @@
 ### 🧰 Minhas principais ferramentas e tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white" width="150" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="130" height="50"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="100" height="30"/>
-  <a href="#"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" width="80" height="30"/></a>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" width="130" height="30"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/Java-f59323?style=flat&logo=openjdk&logoColor=000000&labelColor=d78a2e&color=d78a2e" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" width="135" height="30"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" width="170" height="30"/>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" width="120" height="30"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" width="120" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="70" height="30"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" width="85" height="30"/>
-  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" width="140" height="30"/></a>
-  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" width="200" height="30"/></a>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="120" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="130"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/CSS-639?style=flat&logo=css&logoColor=fff" width="78"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" width="124"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" width="90"/>
+  <img src="https://img.shields.io/badge/Java-f59323?style=flat&logo=openjdk&logoColor=000000&labelColor=d78a2e&color=d78a2e" width="90"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" width="90"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" width="124"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" width="158"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" width="86"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="90"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" width="108"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="57"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="86"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="88"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" width="85"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" width="136"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" width="198"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" width="96"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width=110"/>
 </p>
 
 ---
