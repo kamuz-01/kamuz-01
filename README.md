@@ -48,7 +48,7 @@
 
 🌿 [AgroFraiburgo](https://github.com/kamuz-01/AgroFraiburgo): Aplicativo web para disponibilizar informações sobre os produtos produzidos pela agricultura familiar do município de Fraiburgo/SC.
 
-🔹 🔗 [Monitor de Recursos](https://github.com/kamuz-01/Monitor-de-recursos): Aplicativo web que monitora e exibe via dashboard o uso de Memória RAM e CPU.
+📈 [Monitor de Recursos](https://github.com/kamuz-01/Monitor-de-recursos): Aplicativo web que monitora e exibe via dashboard o uso de Memória RAM e CPU.
 
 🔹 🔗 [Portfólio Web](https://seuportifolio.com) (se tiver)
 
