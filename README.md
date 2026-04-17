@@ -56,10 +56,10 @@
 ### 📬 Onde me encontrar
 
 <p align="left">
-  <a href="https://linkedin.com/in/seulinkedin"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width=110"/></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" width="87"/></a>
-  <a href="https://facebook.com/seufacebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" width="116"/></a>
-  <a href="https://x.com/seux"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" width="51"/></a>
+  <a href="www.linkedin.com/in/jesús-muñoz-b58365336"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width=110"/></a>
+  <a href="mailto:jesusvzlanz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" width="87"/></a>
+  <a href="https://www.facebook.com/jesus.munoz.52831"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" width="116"/></a>
+  <a href="https://x.com/KamuzVEN"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" width="51"/></a>
   <a href="https://www.youtube.com/@jesusmunoz1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" width="110"/></a>
 </p>
 
