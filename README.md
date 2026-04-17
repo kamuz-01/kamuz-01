@@ -46,7 +46,7 @@
 
 ### 📌 Projetos em destaque
 
-🔹 🔗 [AgroFraiburgo](https://github.com/kamuz-01/AgroFraiburgo): Aplicativo web para disponibilizar informações sobre os produtos produzidos pela agricultura familiar do município de Fraiburgo/SC.
+🔹 🌿 [AgroFraiburgo](https://github.com/kamuz-01/AgroFraiburgo): Aplicativo web para disponibilizar informações sobre os produtos produzidos pela agricultura familiar do município de Fraiburgo/SC.
 
 🔹 🔗 [Nome do Projeto 2](https://github.com/seuusuario/projeto2): Breve descrição do projeto
 
