@@ -82,7 +82,7 @@
 
 ---
 
-✨ _“Transformando café em código desde 2023”_
+✨ _“Transformando o código em soluções desde 2023”_
 
 ---
 
