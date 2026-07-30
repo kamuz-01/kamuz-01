@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" width="86"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="90"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white" width="123"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" width="108"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="57"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="88"/>
